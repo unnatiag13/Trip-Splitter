@@ -1,0 +1,71 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+tripledger/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Vite
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# Bun
+.bun/
+bun.lockb
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# Test outputs
+htmlcov/
+.coverage
+
+# Local secrets
+secrets.json
+credentials.json
+
+# Bun
+bun.lock
+bun.lockb
+.bun/

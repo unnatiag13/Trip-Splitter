@@ -1,0 +1,6 @@
+{
+  "name": "TripLedger",
+  "description": "Group trip expense splitting, net balance calculation, minimum-transaction settlements, and travel spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
